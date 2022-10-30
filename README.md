@@ -9,13 +9,13 @@
 
 
 
-THIS REPOSITORY CONSUMES DATA FROM AN EXTERNAL API: 
+THIS REPOSITORY CONSUMES DATA FROM AN EXTERNAL API: </br>
 
 https://dog.ceo/dog-api/
 
 It uses two endpoints: 
 
-/breeds (to display existing dog breeds. 
-/dogs/{dog breed} to get all dogs belonging to the breed passed by parameter to the endpoint.
+<p>/breeds (to display existing dog breeds. </br>
+/dogs/{dog breed} to get all dogs belonging to the breed passed by parameter to the endpoint. </br>
 
-In following commits will be made a layout of the front to show the images of the dogs belonging to the breedIn subsequent commits will be made a layout of the front to show the images of the dogs belonging to the breed introduced.
+In following commits will be made a layout of the front to show the images of the dogs belonging to the breedIn subsequent commits will be made a layout of the front to show the images of the dogs belonging to the breed introduced.</p>
