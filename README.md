@@ -17,3 +17,5 @@ It uses two endpoints:
 
 /breeds (to display existing dog breeds. 
 /dogs/{dog breed} to get all dogs belonging to the breed passed by parameter to the endpoint.
+
+In following commits will be made a layout of the front to show the images of the dogs belonging to the breedIn subsequent commits will be made a layout of the front to show the images of the dogs belonging to the breed introduced.
