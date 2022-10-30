@@ -7,5 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
+
+THIS REPOSITORY CONSUMES DATA FROM AN EXTERNAL API: 
+
+https://dog.ceo/dog-api/
+
+It uses two endpoints: 
+
+/breeds (to display existing dog breeds. 
+/dogs/{dog breed} to get all dogs belonging to the breed passed by parameter to the endpoint.
